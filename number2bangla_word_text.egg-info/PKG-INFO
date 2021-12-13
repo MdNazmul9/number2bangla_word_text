@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: number2bangla-word-text
-Version: 0.0.1
+Version: 0.0.2
 Summary: Convert Number to Bangla Word Text
 Home-page: UNKNOWN
 Author: Md. Nazmul Hossain
@@ -11,7 +11,7 @@ Description:
         
         Install package
         ```
-        pip install number2bangla_word_text
+        pip install number2bangla-word-text==0.0.1
         
         ```
         
