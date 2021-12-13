@@ -28,7 +28,7 @@ Description:
         
 Keywords: python3,number2bangali-word-text,number2word-text,number-to-bangali-word-text,number-to-word-text,number-to-bangla-text
 Platform: UNKNOWN
-Classifier: Development Status :: Development
+Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: OS Independent
