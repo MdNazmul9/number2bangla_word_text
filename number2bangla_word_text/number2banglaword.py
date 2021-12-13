@@ -211,4 +211,6 @@ def number_to_bn_word(number):
     else:
         return generated_words
 
+
+
 # print(number_to_bn_word(12054470.456))
