@@ -20,6 +20,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
+    url="https://github.com/MdNazmul9/number2bangla_word_text",
     packages=find_packages(),
     install_requires=[],
     keywords=['python3','number2bangali-word-text','number2word-text','number-to-bangali-word-text','number-to-word-text','number-to-bangla-text' ],
