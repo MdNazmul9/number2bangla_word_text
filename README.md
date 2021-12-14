@@ -2,7 +2,7 @@
 
 Install package
 ```
-pip install number2bangla-word-text==0.0.3
+pip install number2bangla-word-text
 
 ```
 

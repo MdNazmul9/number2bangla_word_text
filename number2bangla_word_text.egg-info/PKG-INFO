@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: number2bangla-word-text
+Version: 0.0.4
+Summary: Convert Number to Bangla Word Text
+Home-page: https://github.com/MdNazmul9/number2bangla_word_text
+Author: Md. Nazmul Hossain
+Author-email: <nazmul.cse48@gmail.com>
+License: UNKNOWN
+Description: 
+        # number2bangla_word_text
+        
+        Install package
+        ```
+        pip install number2bangla-word-text
+        
+        ```
+        
+        # Use:
+        ```
+        >>> from number2bangla_word_text import number_to_bn_word
+        >>> number_to_bn_word(100)
+           একশো
+        ```
+        
+        # Limitation
+        Maximum Number Conversation Limitation 100 Core 
+        
+        
+Keywords: python3,number2bangali-word-text,number2word-text,number-to-bangali-word-text,number-to-word-text,number-to-bangla-text
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
